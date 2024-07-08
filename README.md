@@ -16,8 +16,8 @@ and sales data joins.
 ## Analysis Questions Resolved
 During the analysis, the project addressed the following key questions using SQL queries and
 advanced data analysis techniques:
-1. Identify the top-selling products in each category.
-![Top Selling Products Query](insert_image_link_here)
+1. Rank products based on total sales revenue, showing the product name and its rank.
+![Rank Product Based on revenue Query](insert_image_link_here)
 2. Calculate the average revenue per store location.
 ![Average Revenue per Store Query](insert_image_link_here)
 3. Analyze seasonal sales trends across different regions.
