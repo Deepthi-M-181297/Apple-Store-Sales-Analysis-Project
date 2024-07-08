@@ -38,7 +38,7 @@ advanced data analysis techniques:
 10. Identify geographical regions with the highest sales growth rate.
 ![Sales Growth Regions Query](insert_image_link_here)
 ## Entity-Relationship Diagram (ERD)
-![ERD Image]()
+![ERD Image](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/ERD_diagram_Apple.png)
 An Entity-Relationship Diagram (ERD) has been created to visualize the database schema and
 relationships between the tables. This diagram provides clarity on how different entities (e.g.,
 stores, products, sales) are connected within the dataset.
