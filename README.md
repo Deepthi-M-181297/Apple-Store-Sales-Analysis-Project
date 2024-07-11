@@ -18,8 +18,9 @@ During the analysis, the project addressed the following key questions using SQL
 advanced data analysis techniques:
 1. Rank products based on total sales revenue, showing the product name and its rank.
 ![Rank Product Based on revenue Query](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s1.png)
-2. Calculate the average revenue per store location.
-![Average Revenue per Store Query](insert_image_link_here)
+2. 2. Identify stores with the highest sales quantity, showing the store name and total
+quantity sold, ranked using dense_rank.
+![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s2.png)
 3. Analyze seasonal sales trends across different regions.
 ![Seasonal Sales Trends Query](insert_image_link_here)
 4. Determine the profitability of each product category.
