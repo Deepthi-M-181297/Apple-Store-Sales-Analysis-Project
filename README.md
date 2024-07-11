@@ -28,13 +28,13 @@ quantity sold, ranked using dense_rank.
 5. Identify stores where the total sales quantity has decreased compared to the previous month.
 ![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s5.png)
 6. Identifying Products with Seasonal Demand.
-![](insert_image_link_here)
+![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s6.png)
 7. Rank stores based on their average monthly sales revenue
-![](insert_image_link_here)
+![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s7.png)
 8. Calculate monthly growth % (based on profit) for each store between 2019 and 2020
-![]()
+![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s8.png)
 9. Identify geographical regions with the highest sales growth rate.
-![](insert_image_link_here)
+![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s9.png)
 ## Entity-Relationship Diagram (ERD)
 ![ERD Image](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/ERD_diagram_Apple.png)
 An Entity-Relationship Diagram (ERD) has been created to visualize the database schema and
