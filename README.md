@@ -17,26 +17,28 @@ and sales data joins.
 During the analysis, the project addressed the following key questions using SQL queries and
 advanced data analysis techniques:
 1. Rank products based on total sales revenue, showing the product name and its rank.
-![Rank Product Based on revenue Query](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s1.png)
-2. 2. Identify stores with the highest sales quantity, showing the store name and total
+![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s1.png)
+2. Identify stores with the highest sales quantity, showing the store name and total
 quantity sold, ranked using dense_rank.
 ![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s2.png)
-3. Analyze seasonal sales trends across different regions.
-![Seasonal Sales Trends Query](insert_image_link_here)
-4. Determine the profitability of each product category.
-![Profitability Analysis Query](insert_image_link_here)
-5. Identify stores with declining sales compared to the previous quarter.
+3. Calculate total sales amount for each month across all stores.
+![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s3.png)
+4. Calculate the profit margin (profit as a percentage of revenue) for each product.
+![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s4.png)
+5. Identify stores where the total sales quantity has decreased compared to the previous month.
+![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s5.png)
+7. Identify stores with declining sales compared to the previous quarter.
 ![Declining Sales Stores Query](insert_image_link_here)
-6. Calculate the profit margin percentage for each sale.
+8. Calculate the profit margin percentage for each sale.
 ![Profit Margin Calculation Query](insert_image_link_here)
 
-7. Evaluate customer purchasing patterns based on transaction frequency.
+9. Evaluate customer purchasing patterns based on transaction frequency.
 ![Customer Purchasing Patterns Query](insert_image_link_here)
-8. Find out the impact of promotional campaigns on sales revenue.
+10. Find out the impact of promotional campaigns on sales revenue.
 ![Promotional Campaign Impact Query](insert_image_link_here)
-9. Analyze the effectiveness of different pricing strategies on product profitability.
+11. Analyze the effectiveness of different pricing strategies on product profitability.
 ![Pricing Strategy Effectiveness Query](insert_image_link_here)
-10. Identify geographical regions with the highest sales growth rate.
+12. Identify geographical regions with the highest sales growth rate.
 ![Sales Growth Regions Query](insert_image_link_here)
 ## Entity-Relationship Diagram (ERD)
 ![ERD Image](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/ERD_diagram_Apple.png)
