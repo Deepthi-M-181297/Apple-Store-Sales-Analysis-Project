@@ -27,19 +27,14 @@ quantity sold, ranked using dense_rank.
 ![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s4.png)
 5. Identify stores where the total sales quantity has decreased compared to the previous month.
 ![](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/s5.png)
-7. Identify stores with declining sales compared to the previous quarter.
-![Declining Sales Stores Query](insert_image_link_here)
-8. Calculate the profit margin percentage for each sale.
-![Profit Margin Calculation Query](insert_image_link_here)
-
-9. Evaluate customer purchasing patterns based on transaction frequency.
-![Customer Purchasing Patterns Query](insert_image_link_here)
-10. Find out the impact of promotional campaigns on sales revenue.
-![Promotional Campaign Impact Query](insert_image_link_here)
-11. Analyze the effectiveness of different pricing strategies on product profitability.
-![Pricing Strategy Effectiveness Query](insert_image_link_here)
-12. Identify geographical regions with the highest sales growth rate.
-![Sales Growth Regions Query](insert_image_link_here)
+6. Identifying Products with Seasonal Demand.
+![](insert_image_link_here)
+7. Rank stores based on their average monthly sales revenue
+![](insert_image_link_here)
+8. Calculate monthly growth % (based on profit) for each store between 2019 and 2020
+![]()
+9. Identify geographical regions with the highest sales growth rate.
+![](insert_image_link_here)
 ## Entity-Relationship Diagram (ERD)
 ![ERD Image](https://github.com/Deepthi-M-181297/Apple-Store-Sales-Analysis-Project/blob/main/ERD_diagram_Apple.png)
 An Entity-Relationship Diagram (ERD) has been created to visualize the database schema and
