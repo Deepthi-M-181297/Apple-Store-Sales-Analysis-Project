@@ -90,7 +90,8 @@ join cte2
 on cte1.store_id = cte2.store_id
 where qty_current_month < qty_previous_month
 
---6.Identifying Products with Seasonal Demand. List products with sales quantities that peak during certain months of the year, showing product details and peak months.
+--6.Identifying Products with Seasonal Demand. List products with sales quantities that peak during certain months of the year, 
+--showing product details and peak months.
 --select * from products
 select 
 	product_name,
