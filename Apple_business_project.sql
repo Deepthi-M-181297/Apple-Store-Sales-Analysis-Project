@@ -52,7 +52,8 @@ join products p
 on s.product_id = p.product_id
 group by 1
 
---5. Identify stores where the total sales quantity has decreased compared to the previous month, showing store details and sales quantities.
+--5. Identify stores where the total sales quantity has decreased compared to the previous month, 
+	--showing store details and sales quantities.
 select * from store
 with cte1 as
 (
